@@ -7,7 +7,7 @@ module.exports = {
 	      port: 8545,
 	      network_id: "*" // Match any network id
 	    },
-		live: {
+		/*live: {
 		    host: "yolobew4l7we.eastus.cloudapp.azure.com", // Random IP for example purposes (do not use)
 		    port: 3000,
 		    network_id: 1,        // Ethereum public network
@@ -18,7 +18,7 @@ module.exports = {
 		    // provider - web3 provider instance Truffle should use to talk to the Ethereum network.
 		    //          - function that returns a web3 provider instance (see below.)
 		    //          - if specified, host and port are ignored.
-		}
+		}*/
 	}
 
 };
